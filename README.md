@@ -3,8 +3,8 @@
 
 ## Current List ##
 
-[Bride of Frankenstein, 2022](https://github.com/bobkarr72/HTML-CSS-Projects/blob/master/frankenstein/index.html)
-[Chrome Text Clipper, 2022](https://github.com/bobkarr72/HTML-CSS-Projects/blob/master/text-clipper/popup.html)
+* [Bride of Frankenstein, 2022](https://github.com/bobkarr72/HTML-CSS-Projects/blob/master/frankenstein/index.html)
+* [Chrome Text Clipper, 2022](https://github.com/bobkarr72/HTML-CSS-Projects/blob/master/text-clipper/popup.html)
 
 ### Repography Chart
 
